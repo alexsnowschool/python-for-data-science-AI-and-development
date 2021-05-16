@@ -37,7 +37,7 @@ operation = 20 + 5 * 4
 operation1 = 4 / 2 + 4
 operation2 = 3 * (5 + 6)
 
-print(f'operation = {operation1}, operation1 = {operation1}, operation2 = {operation2}')
+print(f'operation = {operation}, operation1 = {operation1}, operation2 = {operation2}')
 # print(f'ရေးချင်တဲ့စာသား {variable_name}')
 
 # ‌Python မှာ variable names တွေထပ်လို့ရတယ်
