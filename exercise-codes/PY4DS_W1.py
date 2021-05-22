@@ -52,7 +52,7 @@ print(f'Total hour is {total_hour}')
 
 ######################################################
 
-# length of a stringS
+# length of a string
 a = 'hello'
 print(len(a))
 
