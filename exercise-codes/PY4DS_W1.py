@@ -70,7 +70,7 @@ x = 'Hello World'
 # Slicing မှာ ဂဏန်း ၂ လုံးပါရင် ပထမ ဂဏန်းက include ဖြစ်ပြီးတော့ ဒုတိယ ဂဏန်းက exclude ဖြစ်သည်
 # ဂဏန်း ၃ လုံးပါရင် နောက်ဆုံးဂဏန်းသည် step ကျော်ရန်ဖြစ်သည်
 print(x[1])
-print(x[:]) # same as original string
+print(x[:]) # same as original string (it's copy of x)
 print(x[:5]) # slice from start
 print(x[2:]) # slice to end
 print(x[2:5]) # slice from 2 to 5
